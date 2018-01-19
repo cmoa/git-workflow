@@ -42,4 +42,4 @@ fix/branch-name
 - If you are assigned to a merge request, look through the code to make sure no glaring issues are present, Feel free to ask questions and make comments/suggestions
 - After the merge request is accepted, the new changes will be merged into the upstream master branch and can be deployed if necessary.
 	- To keep things tidy, you can delete your remote and local feature branches after they’ve been merged.
-	- Got to **Step 0**
+	- Go to **Step 0**
